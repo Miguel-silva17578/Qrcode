@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Imagens de teste/temporárias
+temp_qr.png
+*.jpg
+*.jpeg
+*.png
+
+# Build de executáveis (PyInstaller)
+build/
+dist/
+*.spec
+
+# IDEs e SO
+.vscode/
+.idea/
+Thumbs.db
